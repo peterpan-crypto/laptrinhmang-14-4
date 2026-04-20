@@ -1,0 +1,4 @@
+admin admin
+guest nopass
+user1 123456
+test 123
